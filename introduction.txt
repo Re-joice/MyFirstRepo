@@ -1,0 +1,3 @@
+# Brief Introduction About Myself
+Hello! My name is Rejoice Ofosu-Armah. I’m currently learning Linux and GitHub as part of a tech journey.
+I enjoy solving problems and building projects that help me understand how systems work. 
